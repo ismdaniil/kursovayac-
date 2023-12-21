@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\bin\Debug\CourseworkBall.exe.config
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\bin\Debug\CourseworkBall.exe
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\bin\Debug\CourseworkBall.pdb
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.Start.resources
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.Game.resources
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.Properties.Resources.resources
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.exe
+C:\Users\Admin\Desktop\Код\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.pdb
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\bin\Debug\CourseworkBall.exe.config
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\bin\Debug\CourseworkBall.exe
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\bin\Debug\CourseworkBall.pdb
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.Start.resources
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.Game.resources
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.Properties.Resources.resources
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.exe
+C:\Users\Admin\Desktop\Учёба\III семестр\Лабы программирование 3 семестр\Курсач\CourseworkBall-master\CourseworkBall\obj\Debug\CourseworkBall.pdb
